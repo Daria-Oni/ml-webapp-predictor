@@ -25,7 +25,7 @@ A trained model is loaded in the backend, served through an API, and used in a u
 
 ---
 
-## Screenshot of the Interface
+## Preview of the Interface
 
 ![App Screenshot](./screenshot_interface.png)
 
